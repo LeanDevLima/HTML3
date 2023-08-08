@@ -35,6 +35,8 @@ Além disso, comprovei meu aprendizado por meio de certificados:
 
 [HTML: Recursos Especiais 📜](https://www.dio.me/certificate/DCAA10F3/share)
 
+[Recriando o Wikipedia com Layout Moderno 📜](https://www.dio.me/certificate/8B01F5B7/share)
+
 
 - [Digital Innovation One](https://www.dio.me/?ref=RE6NDV822B).
 
