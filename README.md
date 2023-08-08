@@ -23,9 +23,9 @@ Optei por explorar quatro temas que me inspiram e que mantenho sempre atualizado
 - Ética Hacker 🦠
 - Testes de Software 🧪
 
-## 💻 Sobre Mim
+## Sobre Mim 💻
 
-Sou um entusiasta do desenvolvimento web, apaixonado por aprender e aplicar as melhores práticas para criar experiências incríveis na internet. Venha conhecer mais sobre mais a meu respeito no meu [Linkedin](https://www.linkedin.com/in/leanderson-dias-de-lima/).
+Sou um entusiasta do desenvolvimento web, apaixonado por aprender e aplicar as melhores práticas para criar experiências incríveis na internet. Venha conhecer mais sobre mais a meu respeito no meu [Linkedin](https://www.linkedin.com/in/leanderson-dias-de-lima/). 
 
 ## Certificados 📜 
 
